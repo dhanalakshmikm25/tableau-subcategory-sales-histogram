@@ -1,7 +1,6 @@
 # Sub-Category Sales Marginal Histogram
 
 **Author:** Dhanalakshmi Kannur Munirathnam  
-**Course:** BIS 582 – Data Visualization (Central Michigan University)  
 **Tool:** Tableau  
 **Dataset:** Sample Superstore (US Retail Sales Data)
 
@@ -52,8 +51,8 @@ It combines **time-series trends, regional mapping, and sub-category breakdowns*
 ## 📂 Files
 | File | Description |
 |------|--------------|
-| `FirstName-LastName-BIS582_Assignment5.twbx` | Tableau packaged workbook |
-| `Screenshot 2025-10-05 110852.png` | Dashboard screenshot |
+| `tableau_subcategory_sales_histogram.twbx` | Tableau packaged workbook |
+| `tableau_subcategory_sales_histogram.png` | Dashboard screenshot |
 
 ---
 

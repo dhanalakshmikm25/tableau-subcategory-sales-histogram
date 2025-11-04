@@ -45,7 +45,7 @@ It combines **time-series trends, regional mapping, and sub-category breakdowns*
 ---
 
 ## 📷 Preview
-![Sub-Category Sales Histogram](./Screenshot%202025-10-05%20110852.png)
+![Sub-Category Sales Histogram](./tableau_subcategory_sales_histogram.png)
 
 ---
 
